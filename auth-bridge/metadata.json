@@ -1,0 +1,6 @@
+{
+  "name": "Auth Bridge",
+  "description": "A full-stack application connecting a modern React frontend with an Express API and an interactive MongoDB explorer to demonstrate authentication flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
